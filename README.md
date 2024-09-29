@@ -1,4 +1,4 @@
-<h1 align="center">Greetings 👋<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40"/>, I'm Muhammad Umer Nadeem</h1>
+<h1 align="center">Greetings  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="25px">, I'm Muhammad Umer Nadeem</h1>
 <h3 align="center">A Dedicated Frontend Developer and DevOps Enthusiast from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mumernadeem&label=Profile%20views&color=0e75b6&style=flat" alt="mumernadeem" /> </p>
