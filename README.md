@@ -13,9 +13,9 @@
   </a>
 </p> -->
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
-- 🎓 I have recently completed my **Bachelor's degree in Computer Science**
+- 🎓 I have completed my **Bachelor's degree in Computer Science**
 
 - 🌱 I have hands-on experience in **DevOps**, with expertise in **Kubernetes** and **Docker**
 
