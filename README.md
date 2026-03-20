@@ -54,12 +54,12 @@
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 </p>
 
-<h3 align="center">Support My Work:</h3>
+<!-- <h3 align="center">Support My Work:</h3>
 <p align="center">
     <a href="https://www.buymeacoffee.com/up46629p"> 
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="muhammadumernadeem" />
     </a>
-</p>
+</p> -->
 
 <!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mumernadeem&show_icons=true&locale=en&layout=compact" alt="mumernadeem" style="max-width:100%; height:auto;" />
