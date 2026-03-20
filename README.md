@@ -13,7 +13,7 @@
 
 - 💬 Feel free to ask me about **Flutter**, **Unity**, and **DevOps**
 
-- 📫 You can reach me via email at: **up46629@gmail.com** or **mumernadeem2002@gmail.com**
+- 📫 You can reach me via email at: **mumernadeem2002@gmail.com**
 
 - 📄 Explore my professional journey through my [Resume](https://drive.google.com/file/d/1HmPI9P2TZi4unHxp-UBtMFZ79CjpZQW4/view?usp=sharing) or my [Fiverr Profile](http://fiverr.com/users/mumer466)
 
