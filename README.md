@@ -1,7 +1,7 @@
 <h1 align="center">Greetings  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="40px" height="30px">, I'm Muhammad Umer Nadeem</h1>
 <h3 align="center">A Dedicated Frontend Developer and DevOps Engineer from Pakistan</h3>
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://www.linkedin.com/in/mumernadeem">
     <img 
       src="https://avatars.githubusercontent.com/u/88161217?v=4" 
@@ -11,7 +11,7 @@
       style="border-radius:50%; object-fit:cover;"
     />
   </a>
-</p>
+</p> -->
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
