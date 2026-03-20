@@ -15,7 +15,7 @@
 
 - 📫 You can reach me via email at: **mumernadeem2002@gmail.com**
 
-- 📄 Explore my professional journey through my [Resume](https://drive.google.com/file/d/1rUHEoIEuT0XtB52w_EEA4sizztkAHhJm/view?usp=sharing), my [Upwork Profile](https://upwork.com/freelancers/umern10),or my [Fiverr Profile](http://fiverr.com/users/mumer466)
+- 📄 Explore my professional journey through my [Resume](https://drive.google.com/file/d/1rUHEoIEuT0XtB52w_EEA4sizztkAHhJm/view?usp=sharing) or my [Upwork Profile](https://upwork.com/freelancers/umern10)
 
 - ⚡ Fun fact: **I have a passion for photography**
 
