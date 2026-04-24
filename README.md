@@ -61,7 +61,7 @@
     </a>
 </p> -->
 
-<!-- <p align="center">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mumernadeem&show_icons=true&locale=en&layout=compact" alt="mumernadeem" style="max-width:100%; height:auto;" />
 </p>
 
@@ -71,4 +71,4 @@
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mumernadeem&" alt="mumernadeem" style="max-width:100%; height:auto;" />
-</p> -->
+</p>
