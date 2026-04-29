@@ -17,18 +17,18 @@ I specialize in containerized environments, CI/CD automation, and infrastructure
 
 ## 🤝 Open to Collaborate
 
-- Startups needing scalable cloud infrastructure
-- Teams building DevOps pipelines & automation
-- Companies optimizing performance, reliability, and deployments
+- Startups needing scalable cloud infrastructure  
+- Teams building DevOps pipelines & automation  
+- Companies optimizing performance, reliability, and deployments  
 
 ---
 
 ## 💬 Ask Me About
 
-- Kubernetes, Docker & container orchestration
-- CI/CD design & automation
-- Infrastructure as Code (Terraform, CloudFormation, Ansible)
-- Monitoring, logging & system reliability
+- Kubernetes, Docker & container orchestration  
+- CI/CD design & automation  
+- Infrastructure as Code (Terraform, CloudFormation, Ansible)  
+- Monitoring, logging & system reliability  
 
 ---
 
@@ -52,12 +52,31 @@ I specialize in containerized environments, CI/CD automation, and infrastructure
 
 ## 💻 Tech Stack
 
-- ☁️ Cloud: AWS, GCP, Azure, DigitalOcean
-- ⚙️ DevOps: Docker, Kubernetes, Jenkins, GitHub Actions
-- 🛠 IaC: Terraform, CloudFormation, Ansible
-- 📊 Monitoring: Prometheus, Grafana, ELK
-- 💾 Databases: MySQL, MongoDB
-- 🧠 Others: Linux, Networking, System Design
+### ☁️ Cloud & Platforms
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### ⚙️ DevOps & Containers
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### 🛠 Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%23000000.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-%23FF4F00.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 📊 Monitoring & Logging
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK-%23005571.svg?style=for-the-badge&logo=elastic&logoColor=white)
+
+### 💾 Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
