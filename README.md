@@ -1,74 +1,66 @@
-<h1 align="center">Greetings  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="40px" height="30px">, I'm Muhammad Umer Nadeem</h1>
-<h3 align="center">A Dedicated Frontend Developer and DevOps Engineer from Pakistan</h3>
+# 💫 About Me:
+👨‍💻 Hi, I’m Muhammad Umer Nadeem — a DevOps Engineer focused on building scalable, reliable, and automated cloud systems.
 
-<!-- <p align="left">
-  <a href="https://www.linkedin.com/in/mumernadeem">
-    <img 
-      src="https://avatars.githubusercontent.com/u/88161217?v=4" 
-      alt="mumernadeem" 
-      width="50" 
-      height="50"
-      style="border-radius:50%; object-fit:cover;"
-    />
-  </a>
-</p> -->
+I specialize in containerized environments, CI/CD automation, and infrastructure as code to support high-performance applications.
 
-<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
+---
 
-- 🎓 I have completed my **Bachelor's degree in Computer Science**
+## 🚀 Currently Working On
 
-- 🌱 I have hands-on experience in **DevOps**, with expertise in **Kubernetes** and **Docker**
+- Kubernetes-based microservices deployments (Helm, RBAC, scaling strategies)
+- CI/CD pipelines using Jenkins & GitHub Actions
+- Infrastructure automation with Terraform & Ansible
+- Monitoring & observability (Prometheus, Grafana, ELK stack)
+- Cloud architecture on AWS (EC2, S3, IAM, VPC, CloudFormation)
 
-- 💬 Feel free to ask me about **Flutter**, **Unity**, and **DevOps**
+---
 
-- 📫 You can reach me via email at: **mumernadeem2002@gmail.com**
+## 🤝 Open to Collaborate
 
-- 📄 Explore my professional journey through my [Resume](https://drive.google.com/file/d/1rUHEoIEuT0XtB52w_EEA4sizztkAHhJm/view?usp=sharing) or my [Upwork Profile](https://upwork.com/freelancers/umern10)
+- Startups needing scalable cloud infrastructure
+- Teams building DevOps pipelines & automation
+- Companies optimizing performance, reliability, and deployments
 
-- ⚡ Fun fact: **I have a passion for photography**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mumernadeem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m umer nadeem" height="30" width="40" /></a>
-<a href="https://instagram.com/muhammadumernadeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadumernadeem" height="30" width="40" /></a>
-<a href="https://discord.gg/muhammadumernadeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="muhammadumernadeem" height="30" width="40" /></a>
-</p>
+## 💬 Ask Me About
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-</p>
+- Kubernetes, Docker & container orchestration
+- CI/CD design & automation
+- Infrastructure as Code (Terraform, CloudFormation, Ansible)
+- Monitoring, logging & system reliability
 
-<!-- <h3 align="center">Support My Work:</h3>
-<p align="center">
-    <a href="https://www.buymeacoffee.com/up46629p"> 
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="muhammadumernadeem" />
-    </a>
-</p> -->
+---
 
-<!-- <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mumernadeem&show_icons=true&locale=en&layout=compact" alt="mumernadeem" style="max-width:100%; height:auto;" />
-</p>
+## 🌐 Connect With Me
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mumernadeem&show_icons=true&locale=en" alt="mumernadeem" style="max-width:100%; height:auto;" />
-</p>
+[LinkedIn](https://www.linkedin.com/in/mumernadeem/)  
+[Upwork](https://upwork.com/freelancers/umern10)  
+📧 mumernadeem2002@gmail.com  
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mumernadeem&" alt="mumernadeem" style="max-width:100%; height:auto;" />
-</p> -->
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=mumernadeem&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=mumernadeem&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mumernadeem&theme=dark&hide_border=false&layout=compact)
+
+---
+
+## 💻 Tech Stack
+
+- ☁️ Cloud: AWS, GCP, Azure, DigitalOcean
+- ⚙️ DevOps: Docker, Kubernetes, Jenkins, GitHub Actions
+- 🛠 IaC: Terraform, CloudFormation, Ansible
+- 📊 Monitoring: Prometheus, Grafana, ELK
+- 💾 Databases: MySQL, MongoDB
+- 🧠 Others: Linux, Networking, System Design
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy designing highly scalable systems and automating everything that can be automated.
