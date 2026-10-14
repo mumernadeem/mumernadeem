@@ -80,53 +80,6 @@ I specialize in containerized environments, CI/CD automation, and infrastructure
 
 ---
 
-## 🗣️ 30-Day Japanese Speaking Roadmap (N5 → Confidence)
-
-### 📌 Daily Routine (45–60 min)
-
-1. **Shadowing (15 min):** repeat native audio line-by-line (Minna dialogues / beginner podcast)  
-2. **Pattern speaking (15 min):** make 10–15 new sentences with one grammar pattern  
-3. **Monologue (10 min):** talk about your day and record yourself  
-4. **Conversation (10–20 min):** language exchange / tutor / AI speaking partner
-
-### Week 1 (Days 1–7): Build speaking habit
-
-- **Focus:** self-intro, family, daily routine, time, likes/dislikes  
-- **Goal:** speak 1 minute without stopping  
-- **Output target:** 15 recorded mini-monologues
-
-### Week 2 (Days 8–14): Q&A fluency
-
-- **Focus:** asking/answering common questions (where, when, why, how much)  
-- **Goal:** hold a 3-minute basic conversation  
-- **Output target:** 5 live speaking sessions
-
-### Week 3 (Days 15–21): Real-life situations
-
-- **Focus:** restaurant, shopping, directions, plans, invitations  
-- **Goal:** role-play 5 everyday situations smoothly  
-- **Output target:** 1 role-play recording per day
-
-### Week 4 (Days 22–30): Confidence + speed
-
-- **Focus:** reduce pauses and improve pronunciation  
-- **Goal:** 5-minute conversation + 2-minute self-talk on any topic  
-- **Output target:** final Day 30 speaking test recording
-
-### Best repo to use daily
-
-- [yudataguy/Awesome-Japanese](https://github.com/yudataguy/Awesome-Japanese)  
-- Pick one speaking/listening resource and stay consistent for 30 days
-
-### ✅ Daily Tracking
-
-- [ ] Shadowing  
-- [ ] Pattern speaking  
-- [ ] Monologue  
-- [ ] Conversation
-
-**Missed day rule:** Do a 20-minute minimum version and continue the streak.
-
 ## ⚡ Fun Fact
 
 I enjoy designing highly scalable systems and automating everything that can be automated.
